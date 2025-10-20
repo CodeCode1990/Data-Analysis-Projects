@@ -183,7 +183,3 @@ It reveals that:
 This work lays the foundation for **data-driven food and supplement safety monitoring**, emphasizing the need for richer, more standardized, and real-time surveillance data to protect public health.
 
 ---
-
-**End of Report**
-
-
