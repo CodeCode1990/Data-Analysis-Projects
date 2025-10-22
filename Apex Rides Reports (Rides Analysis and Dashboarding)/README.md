@@ -26,7 +26,7 @@ This project is part of the **Data Analysis Projects** repository, alongside
 
 ### **1️⃣ Ride Statistics Overview**
 
-![Apex Dashboard](Apex Rides Reports (Rides Analysis and Dashboarding)/Snapshots/Ride1.png)
+![Apex Dashboard](/Snapshots/Ride1.png)
 
 - **Total Rides:** 5.78 million  
 - **Average Daily Rides:** 15,834  
