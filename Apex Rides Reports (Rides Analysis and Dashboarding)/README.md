@@ -48,7 +48,7 @@ This project is part of the **Data Analysis Projects** repository, alongside
 
 ### **2️⃣ Ride Trends & Patterns**
 
-![Ride Trends](https://github.com/CodeCode1990/Data-Analysis-Projects/Apex%20Rides%20Reports%20(Rides%20Analysis%20and%20Dashboarding)/Snapshots/Ride2.png)
+![Ride Trends](/Apex%20Rides%20Reports%20(Rides%20Analysis%20and%20Dashboarding)/Snapshots/Ride2.png)
 
 **When do people ride the most?**  
 - **Members** dominate weekdays → daily commuting behavior.  
@@ -67,7 +67,7 @@ This project is part of the **Data Analysis Projects** repository, alongside
 
 ### **3️⃣ Utilization Insights**
 
-![Utilization Insights](https://github.com/CodeCode1990/Data-Analysis-Projects/Apex%20Rides%20Reports%20(Rides%20Analysis%20and%20Dashboarding)/Snapshots/Ride3.png)
+![Utilization Insights](/Apex%20Rides%20Reports%20(Rides%20Analysis%20and%20Dashboarding)/Snapshots/Ride3.png)
 
 **Top 10 Start Stations:**  
 1. Streeter Dr & Grand Ave  
