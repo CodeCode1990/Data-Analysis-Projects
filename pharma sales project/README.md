@@ -18,19 +18,18 @@ The project follows a structured workflow that mimics a real-world business inte
 
 ```mermaid
 graph TD;
-    A[<B>Step 1: Data Generation</B><br/>Python Script (`Dataset generation.py`)] --> B(Dim_Product.csv);
+    A["<b>Step 1: Data Generation</b><br>Python Script (`Dataset generation.py`)"] --> B(Dim_Product.csv);
     A --> C(Dim_Pharmacy_Geography.csv);
     A --> D(Fact_Sales_Canada_2021_2025.csv);
     
-    subgraph Step 2: Database & Transformation
+    subgraph "Step 2: Database & Transformation"
         B --> E{SQL Database};
         C --> E;
         D --> E;
-        E -- Run SQL Query.sql --> F[<B>SQL View</B><br/>`v_Fact_Sales`];
+        E -- "Run SQL Query.sql" --> F["<b>SQL View</b><br>v_Fact_Sales"];
     end
     
-    F -- Enriched with<br/>Revenue & Profit calcs --> G[(<B>Step 3: Visualization</B><br/>Power BI Dashboard)];
-
+    F -- "Enriched with<br>Revenue & Profit calcs" --> G[("<b>Step 3: Visualization</b><br>Power BI Dashboard")];
 ```
 
 ---
@@ -74,13 +73,13 @@ This is the final step where data is turned into actionable insights. The Power 
 
 ## Dashboard Preview
 
-*(**Action for you:** Replace the lines below with screenshots of your Power BI dashboard. You can drag and drop images directly into the README editor on GitHub.)*
+![Dashboard Screenshot 1](<img width="1221" height="686" alt="image" src="https://github.com/user-attachments/assets/60cf3b6b-c063-47f6-b28c-27d21e846fe9" />
+)
+*Overview of Total Sales and Profitability*
 
-![Dashboard Screenshot 1](<path_to_your_image/dashboard_1.png>)
-*Caption: Overview of Total Sales and Profitability*
-
-![Dashboard Screenshot 2](<path_to_your_image/dashboard_2.png>)
-*Caption: Product Performance Analysis*
+![Dashboard Screenshot 2](<img width="1220" height="684" alt="image" src="https://github.com/user-attachments/assets/56bde242-33a1-4cc0-bd2f-435a6befafbc" />
+)
+*Trend and Market Analysis*
 
 ## How to Replicate This Project
 
