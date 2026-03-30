@@ -76,7 +76,7 @@ This is the final step where data is turned into actionable insights. The Power 
 ![Page 1 animation](https://github.com/user-attachments/assets/5082e8c2-21bf-424d-8ab6-40dfd072abe7)
 
 *Overview of Total Sales and Profitability* 
-    **: Understanding basic metrics like total sales and Revenue**
+*   **Understanding basic metrics like total sales and Revenue**
 
 ![Page 2 Animation](https://github.com/user-attachments/assets/47ef136b-a1bb-49e5-b674-1fa05b15a2b3)
 
