@@ -1,0 +1,11 @@
+DrugID,BrandName,Category,Strength,Unit_Type,Pack_Qty,Is_Internal,Unit_WAC,Prod_Cost
+101,GlucaShield,SGLT-2,10 mg,Tablet,30,1,110,24.5
+102,Ozempic,GLP-1,0.5 mg,Pen,1,0,295,
+103,Jardiance,SGLT-2,10 mg,Tablet,30,0,142,
+104,Januvia,DPP-4,100 mg,Tablet,30,0,95,
+105,Basaglar,Insulin,100 U/mL,KwikPen,5,0,80,
+106,Mounjaro,GIP/GLP-1,5 mg,Vial,4,0,325,
+107,Farxiga,SGLT-2,10 mg,Tablet,30,0,138,
+108,Trulicity,GLP-1,1.5 mg,Pen,4,0,288,
+109,Metformin,Biguanide,500 mg,Tablet,60,0,15,
+110,Victoza,GLP-1,6 mg/mL,Pen,3,0,240,

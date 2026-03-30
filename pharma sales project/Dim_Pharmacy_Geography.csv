@@ -1,0 +1,401 @@
+PharmacyID,City,Province,Address
+1000,Halifax,NS,5400 Queen St
+1001,Moncton,NB,5744 King St
+1002,Kelowna,BC,4436 Queen St
+1003,Moncton,NB,8332 Dundas St
+1004,Brandon,MB,6959 King St
+1005,Winnipeg,MB,4565 King St
+1006,Saskatoon,SK,8676 Queen St
+1007,Mount Pearl,NL,2757 St-Catherine St
+1008,Kelowna,BC,1277 Main St
+1009,Abbotsford,BC,3900 St-Catherine St
+1010,Winnipeg,MB,5403 Maple St
+1011,Summerside,PE,8443 King St
+1012,Summerside,PE,2622 King St
+1013,Lethbridge,AB,5496 Maple St
+1014,Halifax,NS,785 St-Catherine St
+1015,Vancouver,BC,1595 Maple St
+1016,Sherbrooke,QC,3853 Dundas St
+1017,Terrebonne,QC,5685 King St
+1018,Mount Pearl,NL,1005 Dundas St
+1019,Saint John,NB,9477 Main St
+1020,Moncton,NB,6873 Bay St
+1021,Longueuil,QC,4897 King St
+1022,Summerside,PE,6341 Maple St
+1023,Charlottetown,PE,2072 Bay St
+1024,Kitchener,ON,8016 Main St
+1025,Moncton,NB,2037 St-Catherine St
+1026,Vancouver,BC,401 Queen St
+1027,Vancouver,BC,5902 King St
+1028,Cape Breton,NS,6194 Maple St
+1029,Halifax,NS,3114 St-Catherine St
+1030,Cape Breton,NS,9006 Queen St
+1031,Saint John,NB,8164 Queen St
+1032,Mississauga,ON,8120 Dundas St
+1033,Vancouver,BC,1038 King St
+1034,Dartmouth,NS,9072 Queen St
+1035,Charlottetown,PE,5144 King St
+1036,Mount Pearl,NL,1494 Queen St
+1037,Halifax,NS,8765 Bay St
+1038,Medicine Hat,AB,7584 St-Catherine St
+1039,Airdrie,AB,9924 Queen St
+1040,Regina,SK,9799 Main St
+1041,Brandon,MB,3637 Maple St
+1042,St. John's,NL,5602 St-Catherine St
+1043,Toronto,ON,1316 Dundas St
+1044,Summerside,PE,5874 Queen St
+1045,Cape Breton,NS,5585 Queen St
+1046,Summerside,PE,3758 Main St
+1047,Delta,BC,673 St-Catherine St
+1048,Saskatoon,SK,3773 Main St
+1049,Windsor,ON,1301 Dundas St
+1050,Cape Breton,NS,7564 Main St
+1051,Winnipeg,MB,708 Main St
+1052,Quebec City,QC,864 Bay St
+1053,Toronto,ON,5259 Bay St
+1054,Mount Pearl,NL,9935 St-Catherine St
+1055,Grande Prairie,AB,212 Queen St
+1056,London,ON,2337 Bay St
+1057,Edmonton,AB,207 Dundas St
+1058,Kitchener,ON,9349 Queen St
+1059,Saskatoon,SK,9996 Maple St
+1060,Red Deer,AB,9571 Queen St
+1061,Richmond,BC,2921 St-Catherine St
+1062,Calgary,AB,2986 St-Catherine St
+1063,Saguenay,QC,4746 Queen St
+1064,Charlottetown,PE,5544 Dundas St
+1065,St. John's,NL,272 Maple St
+1066,Mount Pearl,NL,9218 Maple St
+1067,Ottawa,ON,5433 Dundas St
+1068,Winnipeg,MB,7168 Main St
+1069,Charlottetown,PE,9884 Queen St
+1070,St. Albert,AB,6207 Main St
+1071,Fredericton,NB,1658 Maple St
+1072,Regina,SK,2567 Main St
+1073,Saanich,BC,2971 Dundas St
+1074,Quebec City,QC,2879 Queen St
+1075,Summerside,PE,8362 Maple St
+1076,Hamilton,ON,4921 Maple St
+1077,Fredericton,NB,1228 Main St
+1078,Barrie,ON,9156 Queen St
+1079,Prince Albert,SK,1055 Dundas St
+1080,Regina,SK,3446 Queen St
+1081,Prince Albert,SK,235 Bay St
+1082,Barrie,ON,7032 Main St
+1083,Winnipeg,MB,9017 Queen St
+1084,Red Deer,AB,7689 Main St
+1085,Brandon,MB,1070 Bay St
+1086,Hamilton,ON,616 Queen St
+1087,Brampton,ON,200 Bay St
+1088,Steinbach,MB,1194 Queen St
+1089,Trois-Rivières,QC,5864 Dundas St
+1090,St. John's,NL,1905 Dundas St
+1091,Saint John,NB,7465 St-Catherine St
+1092,Prince Albert,SK,3019 St-Catherine St
+1093,Mount Pearl,NL,794 Main St
+1094,Charlottetown,PE,7353 St-Catherine St
+1095,St. John's,NL,547 Queen St
+1096,Trois-Rivières,QC,8726 Maple St
+1097,St. John's,NL,8002 Maple St
+1098,Calgary,AB,6665 Dundas St
+1099,Kelowna,BC,9368 Maple St
+1100,Quebec City,QC,5929 St-Catherine St
+1101,Prince Albert,SK,3779 St-Catherine St
+1102,Regina,SK,7519 Main St
+1103,Edmonton,AB,3864 Dundas St
+1104,Winnipeg,MB,3134 Maple St
+1105,Steinbach,MB,5325 Dundas St
+1106,Medicine Hat,AB,4152 Queen St
+1107,Halifax,NS,4475 Maple St
+1108,Mount Pearl,NL,9884 Main St
+1109,Fredericton,NB,5187 St-Catherine St
+1110,St. John's,NL,8318 Dundas St
+1111,Dartmouth,NS,7570 Maple St
+1112,Winnipeg,MB,1091 King St
+1113,Ottawa,ON,7815 Dundas St
+1114,Summerside,PE,7414 Bay St
+1115,Markham,ON,9672 Bay St
+1116,Saskatoon,SK,8140 Maple St
+1117,Mount Pearl,NL,3516 Bay St
+1118,Saskatoon,SK,9445 Bay St
+1119,Brampton,ON,6627 Bay St
+1120,Halifax,NS,7431 Dundas St
+1121,Steinbach,MB,5891 King St
+1122,Saskatoon,SK,2859 Maple St
+1123,Mount Pearl,NL,2499 Main St
+1124,Moncton,NB,4621 St-Catherine St
+1125,Montreal,QC,9097 Queen St
+1126,St. Albert,AB,6843 Queen St
+1127,Toronto,ON,5062 Queen St
+1128,Steinbach,MB,5546 King St
+1129,Laval,QC,8955 Queen St
+1130,Halifax,NS,8977 Bay St
+1131,Mount Pearl,NL,9827 Dundas St
+1132,Laval,QC,8818 St-Catherine St
+1133,Edmonton,AB,7678 King St
+1134,Moncton,NB,7174 Main St
+1135,Edmonton,AB,5998 Main St
+1136,Fredericton,NB,1132 Maple St
+1137,Montreal,QC,2153 St-Catherine St
+1138,Winnipeg,MB,3776 Bay St
+1139,Halifax,NS,2924 Main St
+1140,Toronto,ON,8797 Main St
+1141,Saskatoon,SK,708 Queen St
+1142,Brampton,ON,405 Bay St
+1143,Charlottetown,PE,4181 Main St
+1144,Cape Breton,NS,2792 Maple St
+1145,Delta,BC,5496 Bay St
+1146,Steinbach,MB,4501 Main St
+1147,Red Deer,AB,5598 Maple St
+1148,Steinbach,MB,1177 Main St
+1149,Halifax,NS,7870 King St
+1150,St. John's,NL,6551 St-Catherine St
+1151,St. John's,NL,7340 St-Catherine St
+1152,Trois-Rivières,QC,7251 King St
+1153,London,ON,1552 Dundas St
+1154,Saint John,NB,6948 King St
+1155,Longueuil,QC,6182 Bay St
+1156,Prince Albert,SK,9590 Main St
+1157,Saskatoon,SK,8712 St-Catherine St
+1158,Charlottetown,PE,9357 Maple St
+1159,Prince Albert,SK,1820 Bay St
+1160,Prince Albert,SK,4196 King St
+1161,St. John's,NL,4278 Bay St
+1162,Terrebonne,QC,6629 Bay St
+1163,Charlottetown,PE,3082 Queen St
+1164,Charlottetown,PE,1541 Main St
+1165,Summerside,PE,938 Dundas St
+1166,Brandon,MB,2115 Maple St
+1167,Brandon,MB,5358 Maple St
+1168,Burnaby,BC,6200 Main St
+1169,Toronto,ON,9598 Dundas St
+1170,Prince Albert,SK,2713 St-Catherine St
+1171,Charlottetown,PE,1363 Dundas St
+1172,Moncton,NB,9347 Maple St
+1173,Edmonton,AB,3729 King St
+1174,Longueuil,QC,4845 Queen St
+1175,Prince Albert,SK,7322 Main St
+1176,Hamilton,ON,7901 Bay St
+1177,Coquitlam,BC,5723 Queen St
+1178,Steinbach,MB,19 Dundas St
+1179,Longueuil,QC,1025 Main St
+1180,Saskatoon,SK,2203 St-Catherine St
+1181,Oshawa,ON,7459 St-Catherine St
+1182,Summerside,PE,6980 Queen St
+1183,Toronto,ON,1643 Main St
+1184,Vancouver,BC,414 St-Catherine St
+1185,Saskatoon,SK,9870 Dundas St
+1186,Abbotsford,BC,7200 Bay St
+1187,Winnipeg,MB,4819 King St
+1188,Vancouver,BC,7255 Main St
+1189,Mississauga,ON,4790 Bay St
+1190,Medicine Hat,AB,4554 Main St
+1191,Saint John,NB,3429 St-Catherine St
+1192,Fredericton,NB,259 King St
+1193,Regina,SK,780 Queen St
+1194,Montreal,QC,1087 Maple St
+1195,Brandon,MB,7911 Queen St
+1196,Charlottetown,PE,4729 St-Catherine St
+1197,Dartmouth,NS,1262 Bay St
+1198,Laval,QC,6891 Dundas St
+1199,Quebec City,QC,8027 Dundas St
+1200,Surrey,BC,1341 Main St
+1201,Saskatoon,SK,9560 Maple St
+1202,Cape Breton,NS,7740 Main St
+1203,Winnipeg,MB,7053 King St
+1204,Moncton,NB,5459 Main St
+1205,St. Albert,AB,4174 King St
+1206,Saskatoon,SK,5579 Bay St
+1207,Saanich,BC,7840 St-Catherine St
+1208,Saskatoon,SK,1897 Queen St
+1209,Terrebonne,QC,7580 Bay St
+1210,Brandon,MB,4787 Bay St
+1211,Saskatoon,SK,6991 Main St
+1212,Winnipeg,MB,533 King St
+1213,Montreal,QC,9955 Bay St
+1214,Summerside,PE,6200 Main St
+1215,Prince Albert,SK,6503 Queen St
+1216,Windsor,ON,1286 Maple St
+1217,Saint John,NB,8727 King St
+1218,Cape Breton,NS,374 King St
+1219,Fredericton,NB,5136 Queen St
+1220,Cape Breton,NS,6516 St-Catherine St
+1221,Terrebonne,QC,6959 Queen St
+1222,Saanich,BC,5760 Bay St
+1223,St. John's,NL,1986 Main St
+1224,Cape Breton,NS,7651 Dundas St
+1225,Charlottetown,PE,3606 Maple St
+1226,Summerside,PE,7571 Queen St
+1227,Charlottetown,PE,9371 St-Catherine St
+1228,Grande Prairie,AB,9695 King St
+1229,Moncton,NB,6901 Queen St
+1230,St. John's,NL,2749 King St
+1231,Saguenay,QC,886 Dundas St
+1232,Winnipeg,MB,9514 Bay St
+1233,Saskatoon,SK,1743 Dundas St
+1234,Cape Breton,NS,6996 Dundas St
+1235,Fredericton,NB,9362 St-Catherine St
+1236,Burnaby,BC,2600 Bay St
+1237,St. Albert,AB,5352 Dundas St
+1238,Gatineau,QC,8205 St-Catherine St
+1239,Regina,SK,2561 Dundas St
+1240,Saanich,BC,4299 St-Catherine St
+1241,Saint John,NB,6326 Maple St
+1242,Brandon,MB,9343 Maple St
+1243,Richmond,BC,234 Maple St
+1244,Barrie,ON,2058 King St
+1245,Saskatoon,SK,1927 Queen St
+1246,Airdrie,AB,2036 Queen St
+1247,London,ON,19 Bay St
+1248,Cape Breton,NS,2229 King St
+1249,Saint John,NB,1629 Main St
+1250,Winnipeg,MB,2842 Main St
+1251,Saint John,NB,3500 Dundas St
+1252,Hamilton,ON,245 King St
+1253,Steinbach,MB,5266 King St
+1254,Burnaby,BC,2570 Dundas St
+1255,Fredericton,NB,9074 Bay St
+1256,Abbotsford,BC,2908 Queen St
+1257,Mount Pearl,NL,4237 Main St
+1258,St. John's,NL,9520 Dundas St
+1259,Coquitlam,BC,5994 St-Catherine St
+1260,Kitchener,ON,2202 Main St
+1261,Cape Breton,NS,2007 Bay St
+1262,Fredericton,NB,1980 Dundas St
+1263,Prince Albert,SK,1212 King St
+1264,Grande Prairie,AB,5752 Bay St
+1265,Brampton,ON,8679 St-Catherine St
+1266,Airdrie,AB,1130 Bay St
+1267,Steinbach,MB,960 Main St
+1268,Medicine Hat,AB,4622 Queen St
+1269,St. John's,NL,6038 St-Catherine St
+1270,Airdrie,AB,6369 Maple St
+1271,Fredericton,NB,3238 Bay St
+1272,Lethbridge,AB,3766 King St
+1273,Burnaby,BC,803 Queen St
+1274,Steinbach,MB,6176 St-Catherine St
+1275,Mount Pearl,NL,8564 Maple St
+1276,St. John's,NL,7793 Dundas St
+1277,Trois-Rivières,QC,7800 Maple St
+1278,St. Albert,AB,3886 St-Catherine St
+1279,St. John's,NL,8805 St-Catherine St
+1280,St. John's,NL,5119 Queen St
+1281,Moncton,NB,3807 Queen St
+1282,Halifax,NS,5742 Bay St
+1283,Mount Pearl,NL,9407 St-Catherine St
+1284,Charlottetown,PE,1864 Dundas St
+1285,Dartmouth,NS,5041 St-Catherine St
+1286,Steinbach,MB,7122 Bay St
+1287,Summerside,PE,3517 Main St
+1288,Brandon,MB,7980 St-Catherine St
+1289,Calgary,AB,1635 Queen St
+1290,Regina,SK,8080 King St
+1291,Montreal,QC,6793 Queen St
+1292,Coquitlam,BC,2000 Maple St
+1293,Saskatoon,SK,5985 Main St
+1294,Oshawa,ON,4767 King St
+1295,Longueuil,QC,976 Main St
+1296,Calgary,AB,698 Maple St
+1297,Regina,SK,5192 Bay St
+1298,Moncton,NB,4432 Main St
+1299,Dartmouth,NS,8068 Queen St
+1300,Vaughan,ON,7196 King St
+1301,Mississauga,ON,6655 Maple St
+1302,Ottawa,ON,5807 Queen St
+1303,Calgary,AB,3345 Bay St
+1304,Dartmouth,NS,4883 King St
+1305,Surrey,BC,3461 Main St
+1306,Dartmouth,NS,7653 King St
+1307,Halifax,NS,842 Main St
+1308,Dartmouth,NS,8529 Dundas St
+1309,Charlottetown,PE,3310 Queen St
+1310,Vancouver,BC,3685 St-Catherine St
+1311,Saint John,NB,7980 Dundas St
+1312,Saint John,NB,2548 Maple St
+1313,Airdrie,AB,6622 Dundas St
+1314,Cape Breton,NS,6160 King St
+1315,Halifax,NS,2208 Bay St
+1316,Burnaby,BC,1318 Maple St
+1317,Quebec City,QC,6862 Maple St
+1318,St. John's,NL,1419 Queen St
+1319,Dartmouth,NS,4501 Maple St
+1320,Winnipeg,MB,1289 Dundas St
+1321,Summerside,PE,7093 Queen St
+1322,Edmonton,AB,1397 Main St
+1323,Mount Pearl,NL,2689 Queen St
+1324,Halifax,NS,3196 Main St
+1325,Summerside,PE,4043 Bay St
+1326,Charlottetown,PE,7378 Dundas St
+1327,Prince Albert,SK,2551 Maple St
+1328,Mount Pearl,NL,9006 Queen St
+1329,Regina,SK,5485 Main St
+1330,Regina,SK,7194 Bay St
+1331,Summerside,PE,1632 Bay St
+1332,Mount Pearl,NL,2084 Main St
+1333,Prince Albert,SK,4273 King St
+1334,Charlottetown,PE,8656 King St
+1335,Windsor,ON,3038 Maple St
+1336,Mount Pearl,NL,4235 Maple St
+1337,Prince Albert,SK,2876 Bay St
+1338,Red Deer,AB,4134 Bay St
+1339,Fredericton,NB,7689 Maple St
+1340,Oshawa,ON,9452 Dundas St
+1341,Lévis,QC,6776 Dundas St
+1342,Saskatoon,SK,7489 Main St
+1343,Mount Pearl,NL,8952 Maple St
+1344,Burnaby,BC,7111 Queen St
+1345,Trois-Rivières,QC,163 King St
+1346,Winnipeg,MB,2353 Main St
+1347,Kitchener,ON,70 Queen St
+1348,Saint John,NB,7980 Queen St
+1349,Longueuil,QC,4213 Maple St
+1350,Coquitlam,BC,7019 Maple St
+1351,Abbotsford,BC,4100 Main St
+1352,Windsor,ON,3650 St-Catherine St
+1353,Barrie,ON,1351 Queen St
+1354,Fredericton,NB,2718 Main St
+1355,Halifax,NS,2431 Dundas St
+1356,Moncton,NB,6619 Main St
+1357,St. John's,NL,8054 King St
+1358,Mount Pearl,NL,4816 Main St
+1359,Cape Breton,NS,7134 Dundas St
+1360,St. John's,NL,4440 Bay St
+1361,Halifax,NS,8017 King St
+1362,Halifax,NS,6747 St-Catherine St
+1363,Grande Prairie,AB,3052 King St
+1364,St. John's,NL,5402 Dundas St
+1365,Fredericton,NB,2677 Maple St
+1366,Laval,QC,2993 King St
+1367,Dartmouth,NS,8240 St-Catherine St
+1368,Moncton,NB,5478 Dundas St
+1369,Charlottetown,PE,8694 King St
+1370,Lévis,QC,8940 King St
+1371,Lévis,QC,3820 Queen St
+1372,Cape Breton,NS,2042 Bay St
+1373,Winnipeg,MB,281 Maple St
+1374,Summerside,PE,7079 Main St
+1375,Halifax,NS,3770 Queen St
+1376,Saint John,NB,2043 Maple St
+1377,Longueuil,QC,7842 Main St
+1378,Brandon,MB,2642 St-Catherine St
+1379,Kitchener,ON,7521 Maple St
+1380,St. John's,NL,9140 Maple St
+1381,Prince Albert,SK,9665 St-Catherine St
+1382,Fredericton,NB,1878 King St
+1383,Charlottetown,PE,5700 Maple St
+1384,Saskatoon,SK,3574 Dundas St
+1385,St. John's,NL,834 King St
+1386,Charlottetown,PE,6412 Dundas St
+1387,Winnipeg,MB,8255 St-Catherine St
+1388,Halifax,NS,1923 Main St
+1389,St. John's,NL,9051 Dundas St
+1390,Vaughan,ON,8204 Queen St
+1391,Saskatoon,SK,7297 Bay St
+1392,Charlottetown,PE,4685 Dundas St
+1393,Brandon,MB,1300 Main St
+1394,Fredericton,NB,9189 Bay St
+1395,Charlottetown,PE,5026 King St
+1396,St. John's,NL,9762 Bay St
+1397,Saguenay,QC,7301 St-Catherine St
+1398,Prince Albert,SK,3982 King St
+1399,Sherbrooke,QC,8238 Maple St
