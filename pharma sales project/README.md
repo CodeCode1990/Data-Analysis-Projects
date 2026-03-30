@@ -76,12 +76,12 @@ This is the final step where data is turned into actionable insights. The Power 
 ![Page 1 animation](https://github.com/user-attachments/assets/5082e8c2-21bf-424d-8ab6-40dfd072abe7)
 
 *Overview of Total Sales and Profitability* 
-*   **Understanding basic metrics like total sales and Revenue**
+*   *Understanding basic metrics like total sales and Revenue*
 
 ![Page 2 Animation](https://github.com/user-attachments/assets/47ef136b-a1bb-49e5-b674-1fa05b15a2b3)
 
 *Trend and Market Analysis*
-    : Exploring trends, Class Segmentation Performance, identifying where we can address to avoid more revenue decrease.
+*    *Exploring trends, Class Segmentation Performance, identifying where we can address to avoid more revenue decrease.*
 
 ![Page 3 Animation](https://github.com/user-attachments/assets/1c61184a-f715-46d7-9a1f-3cb7d959e9de)
 
