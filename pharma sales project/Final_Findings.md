@@ -67,7 +67,7 @@ This report details a 5-year longitudinal study of **Glucashield**, an SGLT-2 in
 * **Action:** Re-deploy sales representatives from high-competition urban centers in Ontario to Atlantic Canada (St. John's/Charlottetown) where the brand has established trust and higher penetration rates.
 * **Goal:** Maximize ROI by focusing on regions with a proven receptivity to Glucashield.
 
-### **C. Payer & PBM Focus**
+### **C. Transaction Focus**
 * **Action:** Since **$28M** of category revenue is driven by **Private Insurance**, the market access team should prioritize formulary negotiations with private payers to ensure Glucashield remains the "preferred" low-cost SGLT-2 option.
 
 ### **D. Pricing Adjustment (Long-term)**
