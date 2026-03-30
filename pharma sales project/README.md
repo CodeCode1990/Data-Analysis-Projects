@@ -8,7 +8,7 @@ The core objective is to process raw sales data, enrich it with business-critica
 
 ## Tech Stack
 
-*   **Data Generation:** Python (Pandas, Faker)
+*   **Data Generation:** Python (Pandas, Numpy)
 *   **Database & Transformation:** T-SQL (Microsoft SQL Server)
 *   **Data Visualization:** Power BI
 
