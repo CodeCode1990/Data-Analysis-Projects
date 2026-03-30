@@ -73,7 +73,7 @@ This is the final step where data is turned into actionable insights. The Power 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot 1](<img width="1221" height="686" alt="image" src="https://github.com/user-attachments/assets/60cf3b6b-c063-47f6-b28c-27d21e846fe9" />
+![Dashboard Screenshot 1](<pharma sales project/Page 1 animation.gif>
 )
 *Overview of Total Sales and Profitability*
 
