@@ -86,7 +86,8 @@ This is the final step where data is turned into actionable insights. The Power 
 ![Page 3 Animation](https://github.com/user-attachments/assets/1c61184a-f715-46d7-9a1f-3cb7d959e9de)
 
 **Sales Targeting**
-*   *Identifying who can we target for sales based on province, gender and pharmacy sales performance. Identifying if drug has proper market access through type of transactions.* 
+*   *Identifying who can we target for sales based on province, gender and pharmacy sales performance.*
+*   *Identifying if drug has proper market access through type of transactions.* 
 *   *Also measuring the Churn metric (showcasing how many patient are staying on the current medicaiton).*
 
 ## How to Replicate This Project
